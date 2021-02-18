@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title="naval_battle implementation in C using only the stdio.h library.">
+<g id="a_node1"><a xlink:title="naval_battle implementation in C using only the stdio.h for Standard Input and Output.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-56.5 0,-75.5 110,-75.5 110,-56.5 0,-56.5"/>
 <text text-anchor="middle" x="55" y="-63.5" font-family="Helvetica,sans-Serif" font-size="10.00">games/naval_battle.c</text>
 </a>
