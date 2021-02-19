@@ -66,7 +66,7 @@
 <!-- Node6 -->
 <g id="node6" class="node">
 <title>Node6</title>
-<g id="a_node6"><a xlink:href="../../db/de2/naval__battle_8c.html#a7c5042bd35c4186b06ae28f06635b40e" target="_top" xlink:title="Function validEntryLineColumn Responsible for validating entries, for positioning boats.">
+<g id="a_node6"><a xlink:href="../../db/de2/naval__battle_8c.html#a7c5042bd35c4186b06ae28f06635b40e" target="_top" xlink:title="for Standard Input Output">
 <polygon fill="white" stroke="black" points="211,-190.5 211,-209.5 323,-209.5 323,-190.5 211,-190.5"/>
 <text text-anchor="middle" x="267" y="-197.5" font-family="Helvetica,sans-Serif" font-size="10.00">validEntryLineColumn</text>
 </a>
